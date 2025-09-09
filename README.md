@@ -1,1 +1,1 @@
-# test
+# Hello everyone, this is our first class.
